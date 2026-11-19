@@ -5,7 +5,7 @@ Website for Amanat Digital Studio (Quetta, Balochistan) — mobile software repa
 Single-file static site (`index.html`). No build step needed.
 
 ## Order button
-Each service page has an order box. "Send order on WhatsApp" opens WhatsApp with the customer's order pre-written, sent to `923308363433`.
+Each service page has an order box. "Send order on WhatsApp" opens WhatsApp with the customer's order pre-written, sent to `9233xxxxxxxx`.
 
 To change the number, edit `WA_NUMBER` in `index.html` (digits only, country code first).
 
